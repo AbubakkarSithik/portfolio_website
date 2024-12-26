@@ -25,10 +25,10 @@ const Contacts = () => {
       </div>
       <div className="bg-white/10 p-6 rounded-xl max-w-[550px]">
         <h2 className="text-5xl font-bold text-orange-400 mb-4">
-          Let's Connect
+          Let&apos;s Connect
         </h2>
         <p className="text-white/70 mb-6">
-          Send me a message and lets schedule a call!
+        Send me a message and let&apos;s schedule a call!
         </p>
         <form
           className="space-y-4"
