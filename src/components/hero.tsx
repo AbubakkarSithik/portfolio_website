@@ -37,14 +37,15 @@ const Hero = () => {
         </motion.div>
 
         <p className="text-center text-xl max-w-[550px] mx-auto mt-8 text-white/80">
-          I am a full-stack developer focused on creating websites that provide
-          the best experience for users and also I am a student and an enthusiast.
+          I am a Front-end developer focused on creating websites that provide
+          the best experience for users and also an enthusiast.Tailoring good UI and performace optimized websites.
         </p>
         <Image
           src={profilepic}
           alt="profile picture"
-          className="h-[340px] w-[340px] mx-auto shadow-2xl rounded-[50%] mt-4 bg-[radial-gradient(closest-side,#000_60%,#2B1942)] hover:scale-75 duration-200"
+          className="h-[340px] w-[340px] mx-auto shadow-2xl rounded-[50%] mt-4 bg-[radial-gradient(closest-side,#000_60%,#2B1942)] hover:scale-75 duration-200 z-30"
         />
+        {/* <div className="absolute -bottom-96 left-[400px] w-[600px] h-[900px] bg-[radial-gradient(circle,_#a855f7_20%,_transparent_70%)] blur-2xl pointer-events-none"/> */}
       </div>
     </div>
   );

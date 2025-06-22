@@ -92,7 +92,7 @@ const Contacts = () => {
           <textarea
             name="Your message"
             placeholder="Message"
-            className="bg-black/70 w-full rounded-xl p-3 focus:outline-none focus:ring-2
+            className="bg-black/70 w-full rounded-xl p-3 focus:outline-none focus:ring-2 resize-none
                         focus:ring-orange-400"
           />
           <button className="bg-orange-700 hover:bg-orange-500 text-white px-6 py-2 w-full font-semibold text-xl rounded-xl ">

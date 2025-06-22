@@ -20,8 +20,8 @@ const About = () => {
             <Image src={book} alt="book" className="w-auto h-[130px]" />
             <div className="flex flex-col mt-4">
               <h2 className="text-2xl text-white/80 font-bold">Education</h2>
-              <p className="tezt-lg text-white/80 mt-2">
-                I am a currently pursuing B.Tech Computer Science and
+              <p className="text-lg text-white/80 mt-2">
+                I have completed B.Tech Computer Science and
                 Engineering at BSARCIST.
               </p>
             </div>
@@ -36,7 +36,7 @@ const About = () => {
               <h2 className="text-2xl text-white/80 font-bold">
                 Problem Solving
               </h2>
-              <p className="tezt-lg text-white/80 mt-2">
+              <p className="text-lg text-white/80 mt-2">
                 I approach problems in a creative and systematic way and analyze
                 solutions.
               </p>
@@ -50,7 +50,7 @@ const About = () => {
             <Image src={card} alt="card" className="w-auto h-[130px]" />
             <div className="flex flex-col mt-4">
               <h2 className="text-2xl text-white/80 font-bold">Experience</h2>
-              <p className="tezt-lg text-white/80 mt-2">
+              <p className="text-lg text-white/80 mt-2">
                 I have great projects done and published and had Internship
                 experiences.
               </p>
@@ -66,8 +66,8 @@ const About = () => {
               <h2 className="text-2xl text-white/80 font-bold">
                 Technical Skills
               </h2>
-              <p className="tezt-lg text-white/80 mt-2">
-                As a Fullstack Web Developer, I specialize in React JS, Next.js,
+              <p className="text-lg text-white/80 mt-2">
+                As a Front-end Web Developer, I specialize in React JS, Next.js, Typescript
                 and Tailwind CSS. My expertise extends to creating responsive,
                 user-friendly interfaces.I am also great in C++ and Python. 
               </p>

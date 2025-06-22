@@ -33,3 +33,7 @@ body {
     animation: gradient-xy 10s ease infinite;
     background-size: 200% 200%;
 }
+
+html {
+  scroll-behavior: smooth;
+}

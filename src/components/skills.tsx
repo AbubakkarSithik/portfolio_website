@@ -1,6 +1,6 @@
 import React from "react";
 import { FaHtml5, FaCss3Alt, FaReact, FaJsSquare } from "react-icons/fa";
-import { SiNextdotjs, SiPython, SiTailwindcss, SiCplusplus, SiMongodb } from 'react-icons/si';
+import { SiNextdotjs, SiPython, SiTailwindcss, SiCplusplus, SiMongodb , SiTypescript ,SiGitlab } from 'react-icons/si';
 
 const skillIcons = [
   { icon: <FaHtml5 size={140} />, label: "HTML" },
@@ -12,6 +12,8 @@ const skillIcons = [
   { icon: <SiTailwindcss size={140} />, label: "Tailwind CSS" },
   { icon: <SiCplusplus size={140} />, label: "C++" },
   { icon: <SiMongodb size={140} />, label: "MongoDB" },
+  { icon: <SiTypescript size={140} />, label: "TypeScript" },
+  { icon: <SiGitlab size={140} />, label: "GitLab" },
 ];
 
 const Skills = () => {
